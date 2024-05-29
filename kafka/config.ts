@@ -15,6 +15,7 @@ export const kafkaConfig = {
   brokers: [
     "ec2-54-196-156-132.compute-1.amazonaws.com:9092",
     "ec2-54-196-156-132.compute-1.amazonaws.com:9093",
+    "ec2-54-196-156-132.compute-1.amazonaws.com:9094",
   ],
 };
 
