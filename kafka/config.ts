@@ -19,4 +19,4 @@ export const kafkaConfig = {
   ],
 };
 
-export const kafkaGroupId = "kafka_hub_group";
+export const kafkaGroupId = "kafka_hub_group_demo";
