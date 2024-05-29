@@ -7,7 +7,7 @@ import { ConsumerGroupJoinEvent } from "kafkajs";
 dotenv.config();
 
 export const TOPICS = {
-  topic1: "topic1",
+  topic1: "SIGNUP",
 };
 
 async function runProducer() {
